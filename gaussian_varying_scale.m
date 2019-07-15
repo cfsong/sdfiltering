@@ -1,3 +1,8 @@
+% This file is from the paper:
+% [Scale-aware Structure-Preserving Texture Filtering]
+% Computer Graphics Forum (special issue on Pacific Graphics 2016), Vol. 35, No. 7, 2016.
+% Junho Jeon, Hyunjoon Lee, Henry Kang, Seungyong Lee
+
 function R = gaussian_varying_scale(L, ss_map)
 
 ss_max = gather(max(ss_map(:)));
