@@ -1,5 +1,5 @@
 # Scale-adaptive Structure-preserving Texture Filtering
-MATLAB implementation of my paper: <b>"Scale-adaptive Structure-preserving Texture Filtering" (under reviewing).</b>
+MATLAB implementation of my paper: <b>"Scale-adaptive Structure-preserving Texture Filtering"</b> (under reviewing).
 
 A sample : <br>
 Source : the fish mosaic image <br>
